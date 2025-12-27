@@ -1,0 +1,99 @@
+# Estudio de Podcast en Córdoba - llms.txt
+# Este archivo ayuda a los modelos de IA a entender nuestro sitio web
+
+## Información del Negocio
+
+> Estudio Podcast Córdoba es el primer estudio profesional de grabación de podcast en Córdoba, España. Ofrecemos alquiler de estudio equipado con tecnología de audio y video de alta calidad para creadores de contenido, empresas y particulares.
+
+## Datos Clave
+
+- **Nombre**: Estudio Podcast Córdoba
+- **Tipo de Negocio**: Alquiler de estudio de grabación de podcast
+- **Ubicación**: Córdoba, Andalucía, España
+- **Servicios**: Grabación de audio, grabación de video, edición profesional, postproducción
+- **Público objetivo**: Podcasters, creadores de contenido, empresas, agencias de marketing
+- **Idioma**: Español
+
+## Servicios Ofrecidos
+
+### 1. Podcast Audio
+Grabación profesional de audio con micrófonos de alta gama y acústica tratada.
+
+### 2. Video Podcast
+Producción de video podcast con múltiples cámaras 4K e iluminación cinematográfica.
+
+### 3. Postproducción
+Edición, mezcla, masterización y distribución a plataformas como Spotify, Apple Podcasts, YouTube.
+
+## Configuraciones de Estudio
+
+1. **Solo/Monólogo**: 1 persona - ideal para podcast en solitario
+2. **Entrevista**: 2-3 personas - perfecto para conversaciones
+3. **Mesa Redonda**: 4-6 personas - para paneles y debates
+
+## Planes y Precios
+
+| Plan | Precio | Incluye |
+|------|--------|---------|
+| Essential | 50€/hora | Audio profesional, 2 micrófonos, acústica tratada |
+| Professional | 70€/hora | Audio + 2 cámaras 4K, iluminación profesional |
+| Premium | 90€/hora | Todo lo anterior + edición básica, thumbnails |
+
+## Proceso de Reserva
+
+1. **Consulta**: Contacto inicial para definir necesidades
+2. **Reserva**: Selección de fecha, horario y configuración
+3. **Grabación**: Sesión en el estudio con soporte técnico
+
+## Contacto
+
+- **Teléfono/WhatsApp**: +34 XXX XXX XXX
+- **Email**: hola@podcastcordoba.es
+- **Horario**: Lunes a Viernes 9:00-20:00, Sábados 10:00-14:00
+- **Dirección**: Córdoba, España
+
+## Palabras Clave Relevantes
+
+- estudio podcast córdoba
+- alquiler estudio podcast córdoba
+- grabar podcast córdoba
+- estudio grabación podcast andalucía
+- video podcast córdoba
+- alquiler estudio grabación córdoba
+
+## Preguntas Frecuentes
+
+**¿Cuánto cuesta alquilar el estudio?**
+Desde 50€/hora para grabación de audio hasta 90€/hora para producción completa con video y edición.
+
+**¿Qué incluye el alquiler?**
+Uso del estudio, equipamiento profesional (micrófonos, cámaras, iluminación), soporte técnico básico y archivos de audio/video sin comprimir.
+
+**¿Necesito experiencia previa?**
+No. Nuestro equipo te guía durante toda la sesión para obtener el mejor resultado.
+
+**¿Puedo traer mi propio equipo?**
+Sí, puedes complementar nuestro equipamiento con el tuyo si lo prefieres.
+
+**¿Cuánto tiempo dura una sesión típica?**
+Recomendamos reservar 2 horas para una sesión cómoda: 30 min preparación, 1 hora grabación, 30 min cierre.
+
+**¿Dónde está ubicado el estudio?**
+En Córdoba capital, con fácil acceso y parking cercano.
+
+## Información Técnica
+
+- **Micrófonos**: Shure SM7B, Rode PodMic
+- **Cámaras**: Sony A7 IV (4K)
+- **Iluminación**: LED softbox profesional
+- **Acústica**: Tratamiento profesional con paneles absorbentes
+- **Grabación**: Rodecaster Pro II, Logic Pro
+
+## Enlaces
+
+- Sitio web: https://podcastcordoba.es
+- Sitemap: https://podcastcordoba.es/sitemap.xml
+
+---
+
+*Última actualización: 27 de diciembre de 2025*

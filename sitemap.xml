@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Página Principal - Landing Page -->
+    <url>
+        <loc>https://podcastcordoba.es/</loc>
+        <lastmod>2025-12-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://podcastcordoba.es/images/estudio-podcast-cordoba.jpg</image:loc>
+            <image:title>Estudio de Podcast Profesional en Córdoba</image:title>
+            <image:caption>Interior del estudio de grabación de podcast con equipamiento profesional de audio y video en Córdoba</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://podcastcordoba.es/images/set-entrevista.jpg</image:loc>
+            <image:title>Set de Entrevista - Estudio Podcast Córdoba</image:title>
+            <image:caption>Configuración para entrevistas y conversaciones con 2-3 participantes</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://podcastcordoba.es/images/set-mesa-redonda.jpg</image:loc>
+            <image:title>Set Mesa Redonda - Estudio Podcast Córdoba</image:title>
+            <image:caption>Configuración para paneles y debates con hasta 6 participantes</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Futuras páginas del sitio (descomentar cuando se creen) -->
+
+    <!--
+    <url>
+        <loc>https://podcastcordoba.es/precios</loc>
+        <lastmod>2025-12-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://podcastcordoba.es/servicios</loc>
+        <lastmod>2025-12-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://podcastcordoba.es/galeria</loc>
+        <lastmod>2025-12-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://podcastcordoba.es/contacto</loc>
+        <lastmod>2025-12-27</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://podcastcordoba.es/blog</loc>
+        <lastmod>2025-12-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+    -->
+
+</urlset>

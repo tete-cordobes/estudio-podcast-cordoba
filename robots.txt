@@ -1,0 +1,83 @@
+# robots.txt - Estudio Podcast Córdoba
+# https://podcastcordoba.es/robots.txt
+
+# Reglas generales para todos los bots
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+Disallow: /*.json$
+Disallow: /*?*utm_
+Disallow: /*?*fbclid
+Disallow: /*?*gclid
+
+# Googlebot específico
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Googlebot para imágenes
+User-agent: Googlebot-Image
+Allow: /images/
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.avif$
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+# Bots de redes sociales
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Bots de IA (permitir para visibilidad en respuestas de IA)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Allow: /
+
+# Bloquear bots maliciosos conocidos
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Sitemap
+Sitemap: https://podcastcordoba.es/sitemap.xml
+
+# Host preferido
+Host: https://podcastcordoba.es
